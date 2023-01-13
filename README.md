@@ -1,6 +1,9 @@
 # clustering
 
-figura_clustering.jpg
+
+<p align="center">
+  <img src="figura_clustering.jpg" width="350" title="hover text">
+</p>
 
 Clustering consiste em agrupar um conjunto de dados com base em suas semelhanças. Ao contrário de métodos de classificação e regressão, estamos lidando com aprendizagem não supervisionada, onde algoritmos compreendem as relações entre um conjunto de dados.
 
