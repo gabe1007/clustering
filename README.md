@@ -19,7 +19,7 @@ Podemos aplicar clustering em diversos setores da indústria. Alguns exemplos in
 
 # Dataset
 
-O conjunto de dados utilizado foi coletados do [Condado de Montgomery](https://data.montgomerycountymd.gov/Public-Safety/Crime/icn6-v9z3) que fica no estado americano de Maryland. O dataset possui as seguintes colunas:
+O conjunto de dados utilizado foi coletado do [Condado de Montgomery](https://data.montgomerycountymd.gov/Public-Safety/Crime/icn6-v9z3) que fica no estado americano de Maryland. O dataset possui as seguintes colunas:
 
 * **Incident ID**: Número de incidente policial.
 * **Offence Code**: Offense_Code é o código para uma ofensa cometida, conforme definido pelo National Incident-Based Reporting System (NIBRS) do Programa de Relatórios Uniformes de Crimes (UCR) da Divisão de Serviços de Informações da Justiça Criminal (CJIS).
