@@ -10,9 +10,22 @@ Clustering consiste em agrupar um conjunto de dados com base em suas semelhança
 Aplicação
 Podemos aplicar clustering em diversos setores da indústria. Alguns exemplos incluem:
 
-Segmentação de mercado.
-Análise de rede social.
-Agrupamento de resultados da pesquisa.
-Imagem médica.
-Segmentação de imagens.
-Detecção de anomalias.
+* Segmentação de mercado.
+* Análise de rede social.
+* Agrupamento de resultados da pesquisa.
+* Imagem médica.
+* Segmentação de imagens.
+* Detecção de anomalias.
+
+## Authors
+
+- [@gabe1007](https://github.com/gabe1007)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
